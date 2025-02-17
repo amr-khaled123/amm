@@ -1,0 +1,49 @@
+/*
+ header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .container  {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  padding: 0;
+ }
+
+ header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Academies:not(.Junior):not(.Awareness):not(.Seniors) .first {
+    background-image: url("/theme/edumy/pix/mainmenu/Academy-for-Seniors.jpg");
+}
+
+ header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Academies:not(.Junior):not(.Awareness):not(.Seniors) .second {
+    background-image: url("/theme/edumy/pix/mainmenu/Academy-for-Juniors.jpg");
+}
+
+ header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Academies:not(.Junior):not(.Awareness):not(.Seniors) .third {
+    background-image: url("/theme/edumy/pix/mainmenu/Awareness-Academy.jpg");
+}
+
+ header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .container div div{
+    background-size: cover;
+    padding: 0 62px 62px 0;
+    margin: 5px;
+}
+
+header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .container .inner{
+    margin:0;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-size: cover;
+}
+
+header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Seniors .inner{
+    background-image: url("/theme/edumy/pix/mainmenu/Academy-for-Seniors.jpg");
+}
+
+header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Junior .inner{
+    background-image: url("/theme/edumy/pix/mainmenu/Academy-for-Juniors.jpg");
+}
+
+header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Awareness .inner{
+    background-image: url("/theme/edumy/pix/mainmenu/Awareness-Academy.jpg");
+}
+
+header.header-nav.menu_style_home_one .ace-responsive-menu li ul.sub-menu .Cybersecurity .inner{
+    background-image: url("/theme/edumy/pix/mainmenu/Cybersecurity.jpg");
+}?
+*/
